@@ -1,0 +1,1 @@
+export const defaulApplyLogic = (a: number, b: number) => 42
